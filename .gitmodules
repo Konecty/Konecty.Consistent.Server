@@ -1,0 +1,3 @@
+[submodule "packages/konsistent"]
+	path = packages/konsistent
+	url = https://github.com/Konecty/Konecty.Consistent.git
